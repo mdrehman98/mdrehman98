@@ -31,7 +31,5 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub Stats
-![mdrehman98's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrehman98&show_icons=true)
 
 Thanks for visiting my profile!
