@@ -1,7 +1,6 @@
 # Hey there, I'm Ataur 👋
-**Software Engineer, Full Stack Developer**
+**Senior Software Engineer**
 
-🔭 Currently working at Sureserve Energy Services  
 💻 Experienced in development with JavaScript, Typescript, Java, and Python as well.  
 👨‍💻 I’m open to collaborate with other developers.  
 ⚡ Fun fact: I am a team player and I love collecting resources.
